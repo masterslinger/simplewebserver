@@ -38,7 +38,36 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 ## PROGRAM:
 
 
+```
+<html>
+    <div style="text-align: center;">
+    <IMG src="c:\Users\admin\Downloads\logo.png" height="100" width="400">
+    </div>
+    <Table Border="1" Align="center" cellpadding="5" > 
+    <head> TIME TABLE </head>
+    <body>
+    <table BORDER="2">
+        
+          <TR>
+                <TH> S No </TH> <TH> Layer </TH> <TH> Protocols </TH> 
+            </TR>
+            <TR> <TD> 1 </TD> <TD> Application Layer </TD> <TD> HTTP, FTP, TELNET & DNS </TD>
+            </TR>
+            <TR>
+            <TD> 2 </TD> <TD> Transport layer </TD> <TD> TCP & UDP </TD>
+            </TR>
+            <TD> 3 </TD> <TD> Internet Layer </TD> <TD> IPV4 & IPV6 </TD>
+            <TR>
+            <TD> 4 </TD> <TD> Network Access Layer </TD> <TD> MAC/ETHERNET </TD>
+            </TR>
+    </table>                 
+</body>
+</html>
+```
+
 ## OUTPUT:
+
+![image](https://github.com/user-attachments/assets/cda0fd83-13c4-4a68-8dec-698189835fa0)
 
 
 ## RESULT:
